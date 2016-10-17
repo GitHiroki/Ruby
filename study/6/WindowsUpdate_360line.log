@@ -1,0 +1,385 @@
+2014-07-11	01:32:51:199	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:199	1032	1ca0	Report	CWERReporter finishing event handling. (00000000)
+2014-07-11	01:32:51:199	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {494CF138-527A-4371-9E44-33749DB4FB85}.100]  ***********
+2014-07-11	01:32:51:200	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 494CF138-527A-4371-9E44-33749DB4FB85 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:200	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:200	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {06B58E76-9B84-4D01-92CB-B53D3C7FDB7A}.100]  ***********
+2014-07-11	01:32:51:200	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06B58E76-9B84-4D01-92CB-B53D3C7FDB7A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:200	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {06354548-ABF7-4694-9C9B-D2DD8FDEC141}.100]  ***********
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06354548-ABF7-4694-9C9B-D2DD8FDEC141 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {4D5668C2-675D-439A-9D68-568D9E63B86C}.100]  ***********
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4D5668C2-675D-439A-9D68-568D9E63B86C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {F43AFC0C-7B8F-4E7B-A46C-9D064C044133}.100]  ***********
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F43AFC0C-7B8F-4E7B-A46C-9D064C044133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:202	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1E7C829E-F57A-4ECC-B79F-86A3E4008F6C}.100]  ***********
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 1E7C829E-F57A-4ECC-B79F-86A3E4008F6C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {99616202-6BC7-4897-95D3-2B2C57BD2AC3}.100]  ***********
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 99616202-6BC7-4897-95D3-2B2C57BD2AC3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {3B9290A9-223B-45CF-9049-9024D94A728B}.100]  ***********
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 3B9290A9-223B-45CF-9049-9024D94A728B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:203	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7D26D245-8B74-45F4-9184-30A11A5802D3}.100]  ***********
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7D26D245-8B74-45F4-9184-30A11A5802D3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {2E9B21D2-5FA8-42EB-8E52-4626639C51A1}.100]  ***********
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2E9B21D2-5FA8-42EB-8E52-4626639C51A1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {B8173122-D069-4D08-A042-44119E9F20F8}.100]  ***********
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update B8173122-D069-4D08-A042-44119E9F20F8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5806952E-E863-466D-B840-87B92EC29F6B}.100]  ***********
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5806952E-E863-466D-B840-87B92EC29F6B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D70E1388-2333-4CFE-88D1-C7F73735C532}.100]  ***********
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D70E1388-2333-4CFE-88D1-C7F73735C532 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 81099751-2FE0-4C69-9AFF-97BAC5824A8C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D6CE85BF-5D7D-4611-A692-4DC8763D821E is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4813EF3F-D89E-4381-A858-388B0E883806 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5F538841-7F26-40E8-BECD-A7DB23309333 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E3CD8F60-2302-47E1-9835-CC7A5F31A41A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 93FBAA0E-3382-4FEF-8714-9DDE0240E4F5 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:204	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D44468E5-87DB-4268-A7F0-019A232166CE is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E1A10857-639C-455E-9367-2B2DE9B18B89 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5AAF8B21-5390-4901-83E3-B17075649133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5DF97183-9C1A-4777-8B55-26BA8CE92EB1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 6EB7311E-4B95-4D8D-81C5-CA4FB0297E14 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7CF1F0A7-11C6-4C99-9931-9A564835026F is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8728BDBA-BE92-4483-A25D-828FCF7D9FC8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2634CE31-7829-405B-A061-4CC4B009EE2A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7592E2F0-A5B8-4C22-95F8-628E620C58F0 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D5F8BFE3-45A6-424A-8F90-4145525ACCF1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update CA941FB2-4A4A-454D-8572-130F843937A2 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C7D2DD3A-9BFD-4240-BC7A-B91BD899E482 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update BDF822B5-EB14-4D5E-9D79-B595CBC34184 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 73BF7C93-8CA2-4BF5-ACE5-DD842C383123 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update CCDB4FB0-CC89-4D5E-9368-6A2BB1FDF331 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 13A236DB-B32A-4B54-B872-66BF72EE382B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 807ECB1D-0885-4909-8669-373BD4C45E77 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 494CF138-527A-4371-9E44-33749DB4FB85 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:205	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06B58E76-9B84-4D01-92CB-B53D3C7FDB7A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C42D3771-F89B-433C-B81B-FC06DD795EE1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06354548-ABF7-4694-9C9B-D2DD8FDEC141 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4D5668C2-675D-439A-9D68-568D9E63B86C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F43AFC0C-7B8F-4E7B-A46C-9D064C044133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 1E7C829E-F57A-4ECC-B79F-86A3E4008F6C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8149C838-F942-47E6-A699-0AFF65015072 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 99616202-6BC7-4897-95D3-2B2C57BD2AC3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 3B9290A9-223B-45CF-9049-9024D94A728B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7D26D245-8B74-45F4-9184-30A11A5802D3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2E9B21D2-5FA8-42EB-8E52-4626639C51A1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update B8173122-D069-4D08-A042-44119E9F20F8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5806952E-E863-466D-B840-87B92EC29F6B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:206	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D70E1388-2333-4CFE-88D1-C7F73735C532 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:32:51:207	1032	1ca0	DnldMgr	Preparing update for install, updateId = {6D501535-3C1B-44A6-99E2-CACB2EAA2956}.200.
+2014-07-11	01:32:51:245	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:32:51:247	3972	f44	Handler	:::::::::::::
+2014-07-11	01:32:51:247	3972	f44	Handler	:: START ::  Handler: MSI Install
+2014-07-11	01:32:51:247	3972	f44	Handler	:::::::::
+2014-07-11	01:32:51:247	3972	f44	Handler	  : Updates to install = 1
+2014-07-11	01:32:51:269	3972	f44	Handler	Extracting MSP file stored in CAB excel-x-none.cab
+2014-07-11	01:32:53:430	3972	f44	Handler	MSP update {00000000-0000-0000-0000-000000000000}.0 using full-file patch
+2014-07-11	01:32:53:431	3972	f44	Handler	  : Batch installing 1 updates
+2014-07-11	01:33:09:436	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:09:436	3972	f44	Handler	List of MSPs in transaction:
+2014-07-11	01:33:09:436	3972	f44	Handler	  C:\windows\SoftwareDistribution\Download\fd176c18454da99ff4e75c123e5ebcdc\img\excel-x-none.MSP
+2014-07-11	01:33:09:436	3972	f44	Handler	MSP final command line: DISABLESRCPROMPT=1 LOCALCACHESRCRES=0 NOLOCALCACHEROLLBACK=1 REBOOT=REALLYSUPPRESS MSIRESTARTMANAGERCONTROL=Disable
+2014-07-11	01:33:21:880	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:890	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:905	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:916	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:930	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:940	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:957	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:21:968	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:22:025	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:22:050	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:22:067	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:22:078	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:22:106	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:29:834	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:30:244	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:31:387	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:31:694	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:31:796	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:32:209	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:33:800	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:55:050	3972	f44	Handler	  : MSI transaction completed. MSI: 0x00000000, Handler: 0x00000000, Source: No, Reboot: 0
+2014-07-11	01:33:55:051	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:55:051	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
+2014-07-11	01:33:55:056	3972	f44	Handler	:::::::::
+2014-07-11	01:33:55:056	3972	f44	Handler	::  END  ::  Handler: MSI Install
+2014-07-11	01:33:55:056	3972	f44	Handler	:::::::::::::
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D6CE85BF-5D7D-4611-A692-4DC8763D821E}.100]  ***********
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D6CE85BF-5D7D-4611-A692-4DC8763D821E is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {4813EF3F-D89E-4381-A858-388B0E883806}.100]  ***********
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4813EF3F-D89E-4381-A858-388B0E883806 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:074	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {E3CD8F60-2302-47E1-9835-CC7A5F31A41A}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E3CD8F60-2302-47E1-9835-CC7A5F31A41A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {93FBAA0E-3382-4FEF-8714-9DDE0240E4F5}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 93FBAA0E-3382-4FEF-8714-9DDE0240E4F5 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D44468E5-87DB-4268-A7F0-019A232166CE}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D44468E5-87DB-4268-A7F0-019A232166CE is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5AAF8B21-5390-4901-83E3-B17075649133}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5AAF8B21-5390-4901-83E3-B17075649133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5DF97183-9C1A-4777-8B55-26BA8CE92EB1}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5DF97183-9C1A-4777-8B55-26BA8CE92EB1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {6EB7311E-4B95-4D8D-81C5-CA4FB0297E14}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 6EB7311E-4B95-4D8D-81C5-CA4FB0297E14 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7CF1F0A7-11C6-4C99-9931-9A564835026F}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7CF1F0A7-11C6-4C99-9931-9A564835026F is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {8728BDBA-BE92-4483-A25D-828FCF7D9FC8}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8728BDBA-BE92-4483-A25D-828FCF7D9FC8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D}.100]  ***********
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:075	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7592E2F0-A5B8-4C22-95F8-628E620C58F0}.100]  ***********
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7592E2F0-A5B8-4C22-95F8-628E620C58F0 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D5F8BFE3-45A6-424A-8F90-4145525ACCF1}.100]  ***********
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D5F8BFE3-45A6-424A-8F90-4145525ACCF1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {C7D2DD3A-9BFD-4240-BC7A-B91BD899E482}.100]  ***********
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C7D2DD3A-9BFD-4240-BC7A-B91BD899E482 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:076	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {BDF822B5-EB14-4D5E-9D79-B595CBC34184}.100]  ***********
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update BDF822B5-EB14-4D5E-9D79-B595CBC34184 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {73BF7C93-8CA2-4BF5-ACE5-DD842C383123}.100]  ***********
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 73BF7C93-8CA2-4BF5-ACE5-DD842C383123 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {13A236DB-B32A-4B54-B872-66BF72EE382B}.100]  ***********
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 13A236DB-B32A-4B54-B872-66BF72EE382B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {807ECB1D-0885-4909-8669-373BD4C45E77}.100]  ***********
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 807ECB1D-0885-4909-8669-373BD4C45E77 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {494CF138-527A-4371-9E44-33749DB4FB85}.100]  ***********
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 494CF138-527A-4371-9E44-33749DB4FB85 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {06B58E76-9B84-4D01-92CB-B53D3C7FDB7A}.100]  ***********
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06B58E76-9B84-4D01-92CB-B53D3C7FDB7A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:077	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {06354548-ABF7-4694-9C9B-D2DD8FDEC141}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06354548-ABF7-4694-9C9B-D2DD8FDEC141 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {4D5668C2-675D-439A-9D68-568D9E63B86C}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4D5668C2-675D-439A-9D68-568D9E63B86C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {F43AFC0C-7B8F-4E7B-A46C-9D064C044133}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F43AFC0C-7B8F-4E7B-A46C-9D064C044133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1E7C829E-F57A-4ECC-B79F-86A3E4008F6C}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 1E7C829E-F57A-4ECC-B79F-86A3E4008F6C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {99616202-6BC7-4897-95D3-2B2C57BD2AC3}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 99616202-6BC7-4897-95D3-2B2C57BD2AC3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {3B9290A9-223B-45CF-9049-9024D94A728B}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 3B9290A9-223B-45CF-9049-9024D94A728B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7D26D245-8B74-45F4-9184-30A11A5802D3}.100]  ***********
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7D26D245-8B74-45F4-9184-30A11A5802D3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:078	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {2E9B21D2-5FA8-42EB-8E52-4626639C51A1}.100]  ***********
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2E9B21D2-5FA8-42EB-8E52-4626639C51A1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {B8173122-D069-4D08-A042-44119E9F20F8}.100]  ***********
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update B8173122-D069-4D08-A042-44119E9F20F8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5806952E-E863-466D-B840-87B92EC29F6B}.100]  ***********
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5806952E-E863-466D-B840-87B92EC29F6B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D70E1388-2333-4CFE-88D1-C7F73735C532}.100]  ***********
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D70E1388-2333-4CFE-88D1-C7F73735C532 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 81099751-2FE0-4C69-9AFF-97BAC5824A8C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D6CE85BF-5D7D-4611-A692-4DC8763D821E is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4813EF3F-D89E-4381-A858-388B0E883806 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5F538841-7F26-40E8-BECD-A7DB23309333 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E3CD8F60-2302-47E1-9835-CC7A5F31A41A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 93FBAA0E-3382-4FEF-8714-9DDE0240E4F5 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D44468E5-87DB-4268-A7F0-019A232166CE is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E1A10857-639C-455E-9367-2B2DE9B18B89 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5AAF8B21-5390-4901-83E3-B17075649133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5DF97183-9C1A-4777-8B55-26BA8CE92EB1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 6EB7311E-4B95-4D8D-81C5-CA4FB0297E14 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7CF1F0A7-11C6-4C99-9931-9A564835026F is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8728BDBA-BE92-4483-A25D-828FCF7D9FC8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2634CE31-7829-405B-A061-4CC4B009EE2A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7592E2F0-A5B8-4C22-95F8-628E620C58F0 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D5F8BFE3-45A6-424A-8F90-4145525ACCF1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update CA941FB2-4A4A-454D-8572-130F843937A2 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C7D2DD3A-9BFD-4240-BC7A-B91BD899E482 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update BDF822B5-EB14-4D5E-9D79-B595CBC34184 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 73BF7C93-8CA2-4BF5-ACE5-DD842C383123 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update CCDB4FB0-CC89-4D5E-9368-6A2BB1FDF331 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 13A236DB-B32A-4B54-B872-66BF72EE382B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 807ECB1D-0885-4909-8669-373BD4C45E77 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 494CF138-527A-4371-9E44-33749DB4FB85 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06B58E76-9B84-4D01-92CB-B53D3C7FDB7A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:079	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C42D3771-F89B-433C-B81B-FC06DD795EE1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06354548-ABF7-4694-9C9B-D2DD8FDEC141 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4D5668C2-675D-439A-9D68-568D9E63B86C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F43AFC0C-7B8F-4E7B-A46C-9D064C044133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 1E7C829E-F57A-4ECC-B79F-86A3E4008F6C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8149C838-F942-47E6-A699-0AFF65015072 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 99616202-6BC7-4897-95D3-2B2C57BD2AC3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 3B9290A9-223B-45CF-9049-9024D94A728B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7D26D245-8B74-45F4-9184-30A11A5802D3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2E9B21D2-5FA8-42EB-8E52-4626639C51A1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update B8173122-D069-4D08-A042-44119E9F20F8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5806952E-E863-466D-B840-87B92EC29F6B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:080	1032	1ca0	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D70E1388-2333-4CFE-88D1-C7F73735C532 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:081	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D6CE85BF-5D7D-4611-A692-4DC8763D821E}.100]  ***********
+2014-07-11	01:33:55:081	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D6CE85BF-5D7D-4611-A692-4DC8763D821E is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:081	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:081	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {4813EF3F-D89E-4381-A858-388B0E883806}.100]  ***********
+2014-07-11	01:33:55:081	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4813EF3F-D89E-4381-A858-388B0E883806 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:081	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {E3CD8F60-2302-47E1-9835-CC7A5F31A41A}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E3CD8F60-2302-47E1-9835-CC7A5F31A41A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {93FBAA0E-3382-4FEF-8714-9DDE0240E4F5}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 93FBAA0E-3382-4FEF-8714-9DDE0240E4F5 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D44468E5-87DB-4268-A7F0-019A232166CE}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D44468E5-87DB-4268-A7F0-019A232166CE is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5AAF8B21-5390-4901-83E3-B17075649133}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5AAF8B21-5390-4901-83E3-B17075649133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5DF97183-9C1A-4777-8B55-26BA8CE92EB1}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5DF97183-9C1A-4777-8B55-26BA8CE92EB1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {6EB7311E-4B95-4D8D-81C5-CA4FB0297E14}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 6EB7311E-4B95-4D8D-81C5-CA4FB0297E14 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7CF1F0A7-11C6-4C99-9931-9A564835026F}.100]  ***********
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7CF1F0A7-11C6-4C99-9931-9A564835026F is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:082	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {8728BDBA-BE92-4483-A25D-828FCF7D9FC8}.100]  ***********
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8728BDBA-BE92-4483-A25D-828FCF7D9FC8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D}.100]  ***********
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7592E2F0-A5B8-4C22-95F8-628E620C58F0}.100]  ***********
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7592E2F0-A5B8-4C22-95F8-628E620C58F0 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D5F8BFE3-45A6-424A-8F90-4145525ACCF1}.100]  ***********
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D5F8BFE3-45A6-424A-8F90-4145525ACCF1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:083	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {C7D2DD3A-9BFD-4240-BC7A-B91BD899E482}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C7D2DD3A-9BFD-4240-BC7A-B91BD899E482 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {BDF822B5-EB14-4D5E-9D79-B595CBC34184}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update BDF822B5-EB14-4D5E-9D79-B595CBC34184 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {73BF7C93-8CA2-4BF5-ACE5-DD842C383123}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 73BF7C93-8CA2-4BF5-ACE5-DD842C383123 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {13A236DB-B32A-4B54-B872-66BF72EE382B}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 13A236DB-B32A-4B54-B872-66BF72EE382B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {807ECB1D-0885-4909-8669-373BD4C45E77}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 807ECB1D-0885-4909-8669-373BD4C45E77 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {494CF138-527A-4371-9E44-33749DB4FB85}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 494CF138-527A-4371-9E44-33749DB4FB85 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {06B58E76-9B84-4D01-92CB-B53D3C7FDB7A}.100]  ***********
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06B58E76-9B84-4D01-92CB-B53D3C7FDB7A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:084	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {06354548-ABF7-4694-9C9B-D2DD8FDEC141}.100]  ***********
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06354548-ABF7-4694-9C9B-D2DD8FDEC141 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {4D5668C2-675D-439A-9D68-568D9E63B86C}.100]  ***********
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4D5668C2-675D-439A-9D68-568D9E63B86C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {F43AFC0C-7B8F-4E7B-A46C-9D064C044133}.100]  ***********
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F43AFC0C-7B8F-4E7B-A46C-9D064C044133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1E7C829E-F57A-4ECC-B79F-86A3E4008F6C}.100]  ***********
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 1E7C829E-F57A-4ECC-B79F-86A3E4008F6C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:085	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {99616202-6BC7-4897-95D3-2B2C57BD2AC3}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 99616202-6BC7-4897-95D3-2B2C57BD2AC3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {3B9290A9-223B-45CF-9049-9024D94A728B}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 3B9290A9-223B-45CF-9049-9024D94A728B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {7D26D245-8B74-45F4-9184-30A11A5802D3}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7D26D245-8B74-45F4-9184-30A11A5802D3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {2E9B21D2-5FA8-42EB-8E52-4626639C51A1}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2E9B21D2-5FA8-42EB-8E52-4626639C51A1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {B8173122-D069-4D08-A042-44119E9F20F8}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update B8173122-D069-4D08-A042-44119E9F20F8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5806952E-E863-466D-B840-87B92EC29F6B}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5806952E-E863-466D-B840-87B92EC29F6B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	***********  DnldMgr: New download job [UpdateId = {D70E1388-2333-4CFE-88D1-C7F73735C532}.100]  ***********
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D70E1388-2333-4CFE-88D1-C7F73735C532 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 81099751-2FE0-4C69-9AFF-97BAC5824A8C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D6CE85BF-5D7D-4611-A692-4DC8763D821E is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4813EF3F-D89E-4381-A858-388B0E883806 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5F538841-7F26-40E8-BECD-A7DB23309333 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E3CD8F60-2302-47E1-9835-CC7A5F31A41A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 93FBAA0E-3382-4FEF-8714-9DDE0240E4F5 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D44468E5-87DB-4268-A7F0-019A232166CE is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update E1A10857-639C-455E-9367-2B2DE9B18B89 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5AAF8B21-5390-4901-83E3-B17075649133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5DF97183-9C1A-4777-8B55-26BA8CE92EB1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 6EB7311E-4B95-4D8D-81C5-CA4FB0297E14 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7CF1F0A7-11C6-4C99-9931-9A564835026F is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8728BDBA-BE92-4483-A25D-828FCF7D9FC8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F519C982-C6C0-4F7D-9B33-7CC1ECFD6A2D is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2634CE31-7829-405B-A061-4CC4B009EE2A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7592E2F0-A5B8-4C22-95F8-628E620C58F0 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D5F8BFE3-45A6-424A-8F90-4145525ACCF1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:086	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update CA941FB2-4A4A-454D-8572-130F843937A2 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C7D2DD3A-9BFD-4240-BC7A-B91BD899E482 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update BDF822B5-EB14-4D5E-9D79-B595CBC34184 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 73BF7C93-8CA2-4BF5-ACE5-DD842C383123 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update CCDB4FB0-CC89-4D5E-9368-6A2BB1FDF331 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 13A236DB-B32A-4B54-B872-66BF72EE382B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 807ECB1D-0885-4909-8669-373BD4C45E77 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 494CF138-527A-4371-9E44-33749DB4FB85 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06B58E76-9B84-4D01-92CB-B53D3C7FDB7A is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update C42D3771-F89B-433C-B81B-FC06DD795EE1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 06354548-ABF7-4694-9C9B-D2DD8FDEC141 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 4D5668C2-675D-439A-9D68-568D9E63B86C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update F43AFC0C-7B8F-4E7B-A46C-9D064C044133 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 1E7C829E-F57A-4ECC-B79F-86A3E4008F6C is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 8149C838-F942-47E6-A699-0AFF65015072 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 99616202-6BC7-4897-95D3-2B2C57BD2AC3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 3B9290A9-223B-45CF-9049-9024D94A728B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 7D26D245-8B74-45F4-9184-30A11A5802D3 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 2E9B21D2-5FA8-42EB-8E52-4626639C51A1 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update B8173122-D069-4D08-A042-44119E9F20F8 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update 5806952E-E863-466D-B840-87B92EC29F6B is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	ffc	DnldMgr	Regulation: {7971F918-A847-4430-9279-4A52D1EFE18D} - Update D70E1388-2333-4CFE-88D1-C7F73735C532 is "PerUpdate" regulated and can NOT download. Sequence 1166 vs AcceptRate 0.
+2014-07-11	01:33:55:087	1032	18e8	AU	>>##  RESUMED  ## AU: Installing update [UpdateId = {191DF2A6-D207-424F-AD47-7E0F70DD1C97}, succeeded]
+2014-07-11	01:33:55:087	1032	18e8	Shutdwn	InstallAtShutdown got install progress.
